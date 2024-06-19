@@ -1,0 +1,47 @@
+.light {
+  background-color: #fff;
+  color: #000;
+}
+
+.dark {
+  background-color: #333;
+  color: #fff;
+}
+
+.light-button {
+  margin: 5px;cursor:"pointer";
+  background-color: #000;
+  color:#fff;
+  padding:6px 20px;
+  cursor:pointer;
+  border-radius:4px;
+
+}
+.dark-button{
+  margin: 5px;
+  background-color: #fff;
+  color:#000;
+  cursor:pointer;
+   padding:6px 20px;
+    border-radius:4px;
+}
+.button{
+   cursor:pointer;
+  border:none;
+  padding:10px 20px;
+  border-radius:8px;
+  outline:none;
+  background-color: #7c3aed;
+  color:#fff;
+}
+.input-field{
+  border:1px solid #ccc;
+  border-radius:4px;
+  padding:10px;
+}
+.main-container{
+  display:flex;
+  width:100%;
+  justify-content: center;
+  padding:40px 0px;
+}
